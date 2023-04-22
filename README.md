@@ -1,6 +1,7 @@
 ### Fabricio Leite 👋
-#### Right now I'm at "School 42"
-- **First place** in terms of ethical values, surpassing institutions such as **Havard**, **Columbia** and **Yale**.
+#### 🌱 I’m currently learning at "School 42"
+- **First place** in terms of ethical values, surpassing institutions such as\
+**Havard**, **Columbia** and **Yale**.
 - 10th position in the “World Universities with Real Impact” (WURI) ranking.
 
 [![faaraujo's 42 stats](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
