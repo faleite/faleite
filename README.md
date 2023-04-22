@@ -1,4 +1,9 @@
-### Portfólio de Fabricio Leite  👋
+### Fabricio Leite 👋
+#### Right now I'm at "School 42"
+- **First place** in terms of ethical values, surpassing institutions such as **Havard**, **Columbia** and **Yale**.
+- 10th position in the “World Universities with Real Impact” (WURI) ranking.
+
+[![faaraujo's 42 stats](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **faleite/faleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
