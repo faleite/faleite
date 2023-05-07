@@ -6,9 +6,9 @@
 
 [![faaraujo's 42 stats](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-Projects | Keywords | Skills | Grade | 
-:------:|:--------:|:------:|:-----:|
-LIBFT | Unix logic | [Imperative programming] [Algorithms & AI] [Rigor] | [![faaraujo's 42 Libft Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3061823)](https://github.com/JaeSeoKim/badge42)
+Projects | Skills | Grade | 
+:-------:|:------:|:-----:|
+LIBFT | [Imperative programming] [Algorithms & AI] [Rigor] | [![faaraujo's 42 Libft Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3061823)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **faleite/faleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
