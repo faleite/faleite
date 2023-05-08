@@ -8,7 +8,7 @@
 
 Projects | Skills | Grade | 
 :-------:|:------:|:-----:|
-LIBFT | [Imperative programming] [Algorithms & AI] [Rigor] | [![faaraujo's 42 Libft Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3061823)](https://github.com/JaeSeoKim/badge42)
+[LIBFT](https://github.com/faleite/42libft) | [Imperative programming] [Algorithms & AI] [Rigor] | [![faaraujo's 42 Libft Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3061823)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **faleite/faleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
