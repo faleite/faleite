@@ -13,8 +13,8 @@ Projects | Skills | Grade |
 [GET_NEXT_LINE](https://github.com/faleite/42get_next_line) | [Unix] [Algorithms & AI] [Rigor] | [![faaraujo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3095904)](https://github.com/JaeSeoKim/badge42)
 [BORN2BERROT](https://github.com/faleite/42born2beroot) | [Network & system administration] [Rigor] | [![faaraujo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3116292)](https://github.com/JaeSeoKim/badge42)
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&hide=contribs,prs&theme=react)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&hide=contribs,prs&theme=react) -->
 <!--
 **faleite/faleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
