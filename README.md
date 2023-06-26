@@ -26,8 +26,8 @@ Projects | Skills | Grade |
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 <!--
-Badges 
-https://github.com/Envoy-VC/awesome-badges/tree/main
+icons 
+https://github.com/tandpfun/skill-icons#readme
 -->
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats)
