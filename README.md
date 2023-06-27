@@ -13,22 +13,9 @@ Projects | Skills | Grade |
 [GET_NEXT_LINE](https://github.com/faleite/42get_next_line) | [Unix] [Algorithms & AI] [Rigor] | [![faaraujo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3095904)](https://github.com/JaeSeoKim/badge42)
 [BORN2BERROT](https://github.com/faleite/42born2beroot) | [Network & system administration] [Rigor] | [![faaraujo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/project/3116292)](https://github.com/JaeSeoKim/badge42)
 
-### <img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"> Skills 
-![C](https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=whitehttps://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-<!--![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
-
-### <img class="emoji" alt="woman_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png"> IDE
-![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
-<!--
-icons 
-https://github.com/tandpfun/skill-icons#readme
--->
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cmake,bash,md,py,linux,git,githubactions,vim,neovim,vscode)](https://skillicons.dev)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&hide=contribs,prs&theme=react) -->
