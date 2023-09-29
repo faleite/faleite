@@ -10,12 +10,12 @@
 
 Projects | Skills | Grade | 
 :-------:|:------:|:-----:|
-[**LIBFT**](https://github.com/faleite/42libft) | [**Imperative programming**] [**Algorithms & AI**] [**Rigor**] | **125%** 
+[**LIBFT**](https://github.com/faleite/42libft) | [**Imperative programming**] [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 125%** 
 [**PRINTF**](https://github.com/faleite/42printf) | [**Algorithms & AI**] [**Rigor**] | **100%**
-[**GET_NEXT_LINE**](https://github.com/faleite/42get_next_line) | [**Unix**] [**Algorithms & AI**] [**Rigor**] |**101%**
-[**BORN2BERROT**](https://github.com/faleite/42born2beroot) | [**Network & system administration**] [**Rigor**] | **125%**
-[**PIPEX**](https://github.com/faleite/42_pipex) | [**Unix**] [**Imperative programming**] | **100%**
-[**SO_LONG**](https://github.com/faleite/so_long) | [**Imperative programming**]  [**Graphics**] | **100%**
+[**GET_NEXT_LINE**](https://github.com/faleite/42get_next_line) | [**Unix**] [**Algorithms & AI**] [**Rigor**] |**:white_check_mark: 101%**
+[**BORN2BERROT**](https://github.com/faleite/42born2beroot) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 125%**
+[**PIPEX**](https://github.com/faleite/42_pipex) | [**Unix**] [**Imperative programming**] | **:white_check_mark: 100%**
+[**SO_LONG**](https://github.com/faleite/so_long) | [**Imperative programming**]  [**Graphics**] | **:white_check_mark: 119%**
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cmake,bash,md,py,linux,git,githubactions,vim,neovim,vscode)](https://skillicons.dev)
