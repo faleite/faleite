@@ -4,7 +4,7 @@
 **Havard**, **Columbia** and **Yale**.
 - 10th position in the “World Universities with Real Impact” (WURI) ranking.
 
-<img src="https://github.com/faleite/so_long/blob/main/dcs/42-Lisboa.png" width=600>
+<img src="https://github.com/faleite/so_long/blob/main/dcs/42-Lisboa.png" width=599>
 
 <!-- [![faaraujo's 42 stats](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) -->
 
