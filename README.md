@@ -11,7 +11,7 @@
 Projects | Skills | Grade | 
 :-------:|:------:|:-----:|
 [**LIBFT**](https://github.com/faleite/42libft) | [**Imperative programming**] [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 125%** 
-[**PRINTF**](https://github.com/faleite/42printf) | [**Algorithms & AI**] [**Rigor**] | **100%**
+[**PRINTF**](https://github.com/faleite/42printf) | [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 100%**
 [**GET_NEXT_LINE**](https://github.com/faleite/42get_next_line) | [**Unix**] [**Algorithms & AI**] [**Rigor**] |**:white_check_mark: 101%**
 [**BORN2BERROT**](https://github.com/faleite/42born2beroot) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 125%**
 [**PIPEX**](https://github.com/faleite/42_pipex) | [**Unix**] [**Imperative programming**] | **:white_check_mark: 100%**
