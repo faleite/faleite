@@ -18,6 +18,8 @@ Projects | Skills | Grade |
 [**BORN2BERROT**](https://github.com/faleite/42born2beroot) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 125%**
 [**PIPEX**](https://github.com/faleite/42_pipex) | [**Unix**] [**Imperative programming**] | **:white_check_mark: 100%**
 [**SO_LONG**](https://github.com/faleite/so_long) | [**Imperative programming**]  [**Graphics**] | **:white_check_mark: 119%**
+[**PUSH_SWAP**](https://github.com/faleite/42_push_swap) | [**Unix**] [**Rigor**] [**Algorithmis & AI**] [**Imperative programming**] | **:white_check_mark: 100%**
+
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cmake,bash,md,py,linux,git,githubactions,vim,neovim,vscode)](https://skillicons.dev)
