@@ -19,6 +19,7 @@ Projects | Skills | Grade |
 [**PIPEX**](https://github.com/faleite/42_pipex) | [**Unix**] [**Imperative programming**] | **:white_check_mark: 100%**
 [**SO_LONG**](https://github.com/faleite/so_long) | [**Imperative programming**]  [**Graphics**] | **:white_check_mark: 119%**
 [**PUSH_SWAP**](https://github.com/faleite/42_push_swap) | [**Unix**] [**Rigor**] [**Algorithmis & AI**] [**Imperative programming**] | **:white_check_mark: 100%**
+[**PHILOSOPHERS**](https://github.com/faleite/42_philosophers) | [**Imperative programming**] | **:white_check_mark: 100%**
 
 Exams | Skills | Grade | 
 :-------:|:------:|:-----:|
