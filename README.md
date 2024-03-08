@@ -4,10 +4,10 @@
 **Havard**, **Columbia** and **Yale**.
 - 10th position in the “World Universities with Real Impact” (WURI) ranking.
 
-<img src="https://github.com/faleite/so_long/blob/main/dcs/42-Lisboa.png" width=593>
+<!-- <img src="https://github.com/faleite/so_long/blob/main/dcs/42-Lisboa.png" width=593> -->
 
 <!-- [![faaraujo's 42 stats](https://badge.mediaplus.ma/darkblue/faaraujo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
-<!-- [![faaraujo's 42 stats](https://badge.mediaplus.ma/greenbinary/faaraujo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
+[![faaraujo's 42 stats](https://badge.mediaplus.ma/greenbinary/faaraujo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <!-- [![faaraujo's 42 stats](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) -->
 
 Projects | Skills | Grade | 
@@ -25,6 +25,7 @@ Exams | Skills | Grade |
 :-------:|:------:|:-----:|
 [**RANK 02**](https://github.com/faleite/42_exams/tree/main/2_rank) | [**Hard skills**] | :100:
 [**RANK 03**](https://github.com/faleite/42_exams/tree/main/3_rank) | [**Hard skills**] | :100:
+[**RANK 04**](https://github.com/faleite/42_exams/tree/main/4_rank) | [**Hard skills**] | :100:
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### Skills
