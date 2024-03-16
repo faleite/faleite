@@ -20,6 +20,8 @@ Projects | Skills | Grade |
 [**SO_LONG**](https://github.com/faleite/so_long) | [**Imperative programming**]  [**Graphics**] | **:white_check_mark: 119%**
 [**PUSH_SWAP**](https://github.com/faleite/42_push_swap) | [**Unix**] [**Rigor**] [**Algorithmis & AI**] [**Imperative programming**] | **:white_check_mark: 100%**
 [**PHILOSOPHERS**](https://github.com/faleite/42_philosophers) | [**Imperative programming**] | **:white_check_mark: 100%**
+[**MINISHELL**](https://github.com/faleite/42_minishell) | [**Unix**] [**Rigor**] [**Imperative programming**] | **:white_check_mark: 101%**
+[**NET PRATICE**](https://github.com/faleite/42_netpratice) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 100%**
 
 Exams | Skills | Grade | 
 :-------:|:------:|:-----:|
