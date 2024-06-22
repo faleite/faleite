@@ -10,7 +10,7 @@
 <!-- [![faaraujo's 42 stats](https://badge.mediaplus.ma/greenbinary/faaraujo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 <!-- [![faaraujo's 42 stats](https://badge42.vercel.app/api/v2/clgrr2va0002108jo3cc5foww/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) -->
 
-Projects | Skills | Grade | 
+My built projects | Hard Skills | Grade | 
 :-------:|:------:|:-----:|
 [**LIBFT**](https://github.com/faleite/42libft) | [**Imperative programming**] [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 125%** 
 [**PRINTF**](https://github.com/faleite/42printf) | [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 100%**
