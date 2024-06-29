@@ -1,3 +1,5 @@
+rm ~/.config/google-chrome/SingletonLock
+
 ## Fabricio Leite 👋
 ### 🌱 I’m currently learning Software Engineer at "School 42"
 - **First place** in terms of ethical values, surpassing institutions such as\
