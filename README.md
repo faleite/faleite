@@ -22,12 +22,12 @@ My built projects | Hard Skills | Grade |
 [**PHILOSOPHERS**](https://github.com/faleite/42_philosophers) | [**Imperative programming**] | **:white_check_mark: 100%**
 [**MINISHELL**](https://github.com/faleite/42_minishell) | [**Unix**] [**Rigor**] [**Imperative programming**] | **:white_check_mark: 101%**
 [**NET PRATICE**](https://github.com/faleite/42_netpratice) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 100%**
+[**CUB3D**](https://github.com/faleite/42_cub3d) | [**Graphics**] [**Imperative programming**] [**Rigor**] [**Algorithms & AI**] | **:white_check_mark: 113%**
+[**PISCINE - CPP**](https://github.com/faleite/42_cub3d) | [**Imperative programming**] [**Object-oriented programming**] [**Rigor**] | **:white_check_mark: 100%**
 
-Exams | Skills | Grade | 
-:-------:|:------:|:-----:|
-[**RANK 02**](https://github.com/faleite/42_exams/tree/main/2_rank) | [**Hard skills**] | :100:
-[**RANK 03**](https://github.com/faleite/42_exams/tree/main/3_rank) | [**Hard skills**] | :100:
-[**RANK 04**](https://github.com/faleite/42_exams/tree/main/4_rank) | [**Hard skills**] | :100:
+| :1st_place_medal: | Exams | Hard Skills | **:white_check_mark: 100%** | :1st_place_medal: |
+:-------:|:------:|:-----:|:-----:|:-----:|
+[**RANK 02**](https://github.com/faleite/42_exams/tree/main/2_rank) | [**RANK 03**](https://github.com/faleite/42_exams/tree/main/3_rank) | [**RANK 04**](https://github.com/faleite/42_exams/tree/main/4_rank) | [**RANK 05**](https://github.com/faleite/42_exams/tree/main/5_rank) | **RANK 06** |
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### Skills
