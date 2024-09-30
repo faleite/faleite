@@ -31,7 +31,8 @@ My built projects | Hard Skills | Grade |
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,cmake,md,html,css,linux,git,githubactions,vim,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,cmake,md,html,css,linux,git,githubactions,vim,vscode,docker)](https://skillicons.dev) <!-- \
+[![My Skills](https://skillicons.dev/icons?i=cmake)](https://skillicons.dev) -->
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&hide=contribs,prs&theme=react) -->
