@@ -24,6 +24,9 @@ My built projects | Hard Skills | Grade |
 [**NET PRATICE**](https://github.com/faleite/42_netpratice) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 100%**
 [**CUB3D**](https://github.com/faleite/42_cub3d) | [**Graphics**] [**Imperative programming**] [**Rigor**] [**Algorithms & AI**] | **:white_check_mark: 113%**
 [**PISCINE - CPP**](https://github.com/faleite/CPP_42_School) | [**Imperative programming**] [**Object-oriented programming**] [**Rigor**] | **:white_check_mark: 100%**
+[**IRC**](https://github.com/faleite/42_irc) | [**Network & system administration**] [**Object-oriented programming**] [**Unix**] [**Rigor**] | **:white_check_mark: 125%**
+[**INCEPTION**](https://github.com/faleite/42_inception) | [**Rigor**] [**Network & system administration**] [**Unix**]  | **:white_check_mark: 125%**
+
 
 | :1st_place_medal: | Exams | Hard Skills | **:white_check_mark: 100%** | :1st_place_medal: |
 :-------:|:------:|:-----:|:-----:|:-----:|
