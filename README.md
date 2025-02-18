@@ -30,7 +30,7 @@ My built projects | Hard Skills | Grade |
 
 | :1st_place_medal: | Exams | Hard Skills | **:white_check_mark: 100%** | :1st_place_medal: |
 :-------:|:------:|:-----:|:-----:|:-----:|
-[**RANK 02**](https://github.com/faleite/42_exams/tree/main/2_rank) | [**RANK 03**](https://github.com/faleite/42_exams/tree/main/3_rank) | [**RANK 04**](https://github.com/faleite/42_exams/tree/main/4_rank) | [**RANK 05**](https://github.com/faleite/42_exams/tree/main/5_rank) | **RANK 06** |
+[**RANK 02**](https://github.com/faleite/42_exams/tree/main/2_rank) | [**RANK 03**](https://github.com/faleite/42_exams/tree/main/3_rank) | [**RANK 04**](https://github.com/faleite/42_exams/tree/main/4_rank) | [**RANK 05**](https://github.com/faleite/42_exams/tree/main/5_rank) | [**RANK 06**](https://github.com/faleite/42_exams/tree/main/6_rank) |
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### Skills
