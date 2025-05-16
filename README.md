@@ -33,12 +33,16 @@ My built projects | Hard Skills | Grade |
 [**RANK 02**](https://github.com/faleite/42_exams/tree/main/2_rank) | [**RANK 03**](https://github.com/faleite/42_exams/tree/main/3_rank) | [**RANK 04**](https://github.com/faleite/42_exams/tree/main/4_rank) | [**RANK 05**](https://github.com/faleite/42_exams/tree/main/5_rank) | [**RANK 06**](https://github.com/faleite/42_exams/tree/main/6_rank) |
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-### Skills
+<!-- ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,md,html,css,linux,git,githubactions,vim,vscode,docker)](https://skillicons.dev) <!-- \
 [![My Skills](https://skillicons.dev/icons?i=cmake)](https://skillicons.dev) -->
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&hide=contribs,prs&theme=react) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faleite&langs_count=20&theme=github_dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&hide=contribs,prs&theme=github_dark) -->
+
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **faleite/faleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
