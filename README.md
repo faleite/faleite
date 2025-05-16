@@ -37,7 +37,7 @@ My built projects | Hard Skills | Grade |
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,md,html,css,linux,git,githubactions,vim,vscode,docker)](https://skillicons.dev) <!-- \
 [![My Skills](https://skillicons.dev/icons?i=cmake)](https://skillicons.dev) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faleite&layout=donut&langs_count=5&theme=github_dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faleite&layout=donut&langs_count=5&theme=github_dark)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faleite&langs_count=20&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faleite&hide=contribs,prs&theme=github_dark)-->
